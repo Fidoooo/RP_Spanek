@@ -1,5 +1,5 @@
 # Ročníková práce
-Na této ročníkové práci spolupracujeme dva, Filip Beneš a Martin Šimurda.
+Na této ročníkové práci spolupracují Filip Beneš a Martin Šimurda.
 
 Finální verzí našeho nápadu je **zařízení monitorujcí spánek**, které podle jeho finální velikosti bude buď ve formě hodinek nebo pásu na ruku/hrudník.
 
