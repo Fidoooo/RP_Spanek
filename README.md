@@ -1,7 +1,7 @@
 # Ročníková práce
-Na této ročníkové práci spolupracují Filip Beneš a Martin Šimurda.
 
-Finální verzí našeho nápadu je **zařízení monitorujcí spánek**, které podle jeho finální velikosti bude buď ve formě hodinek nebo pásu na ruku/hrudník.
+Naše ročníková práce se zaměřuje na sestavení a využití zařízení monitorující spánek. Toto zařízení bude fungovat na základě LED senzoru životních funkcí a teploměru s akcelerometrem přidávající další kontext k hlavním datům. Elektrotechnická část práce zahrnuje návrh a sestavení obvodů zajišťujících správnou funkci senzorů a následné vytvoření rozhraní pro jejich propojení a sběr dat. Cílem bude spolehlivé monitorovací zařízení schopné efektivního sběru dat o spánku, s možností jejich pozdějšího využití.
+
 
 ## Hardware
 Naším cílem je, abychom zprovoznili všechny potřebné senzory a diody[^1] (akcelerometr[^2], teploměr, fotosenzor, červená, zelená a infračervená dioda) a až pak se budeme zabývat velikostí a designem, ale i tak se chceme inspirovat již existujícími zařízeními na monitorování spánku jako například WHOOP 4.0, Oura Ring a Garmin.
