@@ -17,5 +17,13 @@ Nejdříve bychom chtěli docílit přenosu dat ze zařízení na jednoduchou we
 <img src="https://helios-i.mashable.com/imagery/articles/0195WOwkhwtJIlIxzbFi5b7/images-2.fill.size_363x750.v1611706688.png" width="150" height="auto">
 </a>
 
+## Součástky
+Akcelerometr
+Ultrafialová dioda
+Červená dioda
+Zelená dioda
+
+
+
 [^1]: https://youtu.be/BFZxlauizx0?si=Zi1RsaSW9pjEn2BY
 [^2]: https://youtu.be/fLlQ2w1gOEM?si=hkw2ZW8PtDQGrrTT
