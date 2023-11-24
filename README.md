@@ -18,10 +18,10 @@ Nejdříve bychom chtěli docílit přenosu dat ze zařízení na jednoduchou we
 </a>
 
 ## Součástky
-Akcelerometr
-Ultrafialová dioda
-Červená dioda
-Zelená dioda
+<p> Akcelerometr <\p>
+<p> Ultrafialová dioda </p>
+<p> Červená dioda </p>
+<p> Zelená dioda </p>
 
 
 
