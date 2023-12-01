@@ -19,9 +19,12 @@ Nejdříve bychom chtěli docílit přenosu dat ze zařízení na jednoduchou we
 
 ## Součástky
 Akcelerometr
+baterie
+port pro baterii
 <p> Ultrafialová dioda </p>
 <p> Červená dioda </p>
-<p> Zelená dioda </p>
+<p> Zelená dioda https:https://www.svetsoucastek.cz/led-dioda-smd-optosupply-osg5das1c1a-lm-p51937/?cid=9435</p>
+<p>https://www.hwkitchen.cz/max30102-snimac-pro-srdecni-tep-a-pulzni-oxymetr/</p>
 
 
 
