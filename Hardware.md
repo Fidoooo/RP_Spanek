@@ -4,7 +4,7 @@ Teď už pouze chybí vybrat jestli chceme finalní zařízení nechat na zápě
 
 ## Senzory
 Gyroskop a akcelerometr máme v jedné součástce a to GY-521.
-
+<img src= "https://ae01.alicdn.com/kf/S95130cd812dc4cd69d29d02730d01efdi.png_640x640.png_.webp" height=100 width=100>
 Tep a okysličení máme také v jednom senzoru GY-MAX30102
 
 ## Napájení
