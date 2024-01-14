@@ -17,19 +17,6 @@ Nejdříve bychom chtěli docílit přenosu dat ze zařízení na jednoduchou we
 <img src="https://helios-i.mashable.com/imagery/articles/0195WOwkhwtJIlIxzbFi5b7/images-2.fill.size_363x750.v1611706688.png" width="150" height="auto">
 </a>
 
-## Součástky
-Akcelerometr https://www.aliexpress.com/item/1005004937815379.html?spm=a2g0o.productlist.main.5.34c43733hY5hny&algo_pvid=090c440d-a9c7-4e93-8bfc-e4ada5a3f7ea&algo_exp_id=090c440d-a9c7-4e93-8bfc-e4ada5a3f7ea-2&pdp_npi=4%40dis%21CZK%21112.23%2178.52%21%21%214.86%21%21%40211b80d117018921205148974e82bc%2112000031083429736%21sea%21CZ%210%21AB&curPageLogUid=rjL012Rs8zeD#nav-specification
-
-https://a.aliexpress.com/_mOfIqrm
-
-baterie
-
-port pro baterii https://www.aliexpress.com/item/1005005341202402.html?spm=a2g0o.productlist.main.17.562d64c0U75Vu2&algo_pvid=ad522ff2-121b-47ac-851c-8b327e2f9ad9&algo_exp_id=ad522ff2-121b-47ac-851c-8b327e2f9ad9-8&pdp_npi=4%40dis%21CZK%2142.26%2111.32%21%21%211.83%21%21%40210388c917018913897682310e681b%2112000032671731627%21sea%21CZ%210%21AB&curPageLogUid=z8p4kGSqHpTU
-
-snímač tepu a okysličení https://www.aliexpress.com/item/1005004916269995.html?spm=a2g0o.productlist.main.17.6f1a5cf2hhtC7q&algo_pvid=4f4e1962-3a4f-4291-a474-15d68faea60f&algo_exp_id=4f4e1962-3a4f-4291-a474-15d68faea60f-8&pdp_npi=4%40dis%21CZK%2128.17%2128.17%21%21%211.22%21%21%40211b813b17018916192545075eb99c%2112000031007376104%21sea%21CZ%210%21AB&curPageLogUid=ZKvNZuZgWVL8
-
-<p>https://www.hwkitchen.cz/max30102-snimac-pro-srdecni-tep-a-pulzni-oxymetr/</p>
-
 
 
 [^1]: https://youtu.be/BFZxlauizx0?si=Zi1RsaSW9pjEn2BY
