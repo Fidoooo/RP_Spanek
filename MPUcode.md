@@ -149,7 +149,7 @@ class MPU6050
             raise Exception("Range index '" + index + "' invalid. Must be 0-3.") # type: ignore
 
 ## Původní kód
-  "import machine
+  import machine
   import time
   import MPU6050
   
@@ -167,7 +167,7 @@ class MPU6050
       gyro = MPU6050.read_gyro_data()
       accel = MPU6050.read_accel_data()
       print("Gyro: " + str(gyro) + ", Accel: " + str(accel))
-      time.sleep(1)"
+      time.sleep(1)
 
 
 [^1]: https://timhanewich.medium.com/how-to-use-an-mpu-6050-with-a-raspberry-pi-pico-using-micropython-cd768ea9268d
