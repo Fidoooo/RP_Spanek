@@ -87,7 +87,11 @@ while True:
         accel = MPU6050.read_accel_data()
         mpu6050_data = "Gyro: " + str(gyro) + ", Accel: " + str(accel) + ", RED:" + str(red_sample) + "," + ", IR:" + str(ir_sample)
 
-
+        line = str(red_sample) + ", " + str(ir_sample) + ", " + str(gyro) + "," + str(accel)
+        
+        f = open("memory.txt", "a")
+        f.write("\n" + line)
+        f.close()
         # Construct response HTML
         response_html = html_template % (mpu6050_data)
 
