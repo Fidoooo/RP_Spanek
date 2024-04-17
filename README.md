@@ -13,9 +13,7 @@ Naším cílem je, abychom zprovoznili všechny potřebné senzory (akcelerometr
 ## Software
 Nejdříve bychom chtěli docílit přenosu dat ze zařízení na jednoduchou webovou stránku nebo aplikaci a až potom (pravděpodobně ve 4. ročníku) bychom řešili vzhled a zpracování získaných dat. Chceme se inspirovat už existujícími aplikacemi jako je například WHOOP, která zobrazuje data číselně i graficky. Obtížností je ale hodně vysoko nad naše možnosti, proto se ve třetím ročníku váce než spokojíme s jednoduchou webovou stránkou, která pouze vypisuje získaná data bez dalších úprav. 
 
-<a href="https://www.whoop.com/eu/en/"> 
-<img src="https://helios-i.mashable.com/imagery/articles/0195WOwkhwtJIlIxzbFi5b7/images-2.fill.size_363x750.v1611706688.png" width="150" height="auto">
-</a>
+
 
 
 
